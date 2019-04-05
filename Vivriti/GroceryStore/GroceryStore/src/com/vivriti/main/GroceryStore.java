@@ -24,11 +24,10 @@ public class GroceryStore {
 
 	}
 	
-
 	public void initializeGroceryStore(){
 
 		try{
-
+			
 			m_objStore.createRegister();
 
 			m_objStore.addItemsToRegister();
