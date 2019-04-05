@@ -108,18 +108,5 @@ public class ConstantsUtil {
 	
 	public static String TOTAL_BE_PAID = "Total amount to be paid :\t";
 	
-	
-			
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
 }
 
